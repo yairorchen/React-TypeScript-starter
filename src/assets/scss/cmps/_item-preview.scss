@@ -1,0 +1,19 @@
+.item-card{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    max-width: 300px;
+    max-height: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    border: rgba(128, 128, 128, 0.435) solid 1px;
+}
+.item-list{
+    display: flex;
+    justify-content: space-between;
+    // background-color: rgb(227, 232, 237);
+    max-width: 70vw;
+    padding: 0 20px ;
+    max-height: 200px;
+    border: rgba(128, 128, 128, 0.435) solid 1px;
+}
